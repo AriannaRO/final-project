@@ -1,0 +1,24 @@
+/*#video {
+	height: 200px;
+	width:auto;
+	z-index: 2;
+}*/
+
+/*#vidOverlay {
+	z-index: 3;
+	background-color: red;
+	width:320px; 
+	height:240px;
+
+}*/
+
+#map {
+	top:-200px;
+	left:10px;
+	position: absolute;
+  	z-index:9999999999;
+}
+
+#video {
+	z-index: -1;
+}
